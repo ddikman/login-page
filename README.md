@@ -2,7 +2,7 @@
 
 Just a dumb login page to use for testing purposes.
 
-## Development
+## Development
 
 Run `npm run dev`
 
